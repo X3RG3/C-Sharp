@@ -1,0 +1,7 @@
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\bin\Debug\PracticeDay2.exe.config
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\bin\Debug\PracticeDay2.exe
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\bin\Debug\PracticeDay2.pdb
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\obj\Debug\PracticeDay2.csproj.AssemblyReference.cache
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\obj\Debug\PracticeDay2.csproj.CoreCompileInputs.cache
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\obj\Debug\PracticeDay2.exe
+C:\CodeFolders\C#\PracticeDay2\PracticeDay2\obj\Debug\PracticeDay2.pdb

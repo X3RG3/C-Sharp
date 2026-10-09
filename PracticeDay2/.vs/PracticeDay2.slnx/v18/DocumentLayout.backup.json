@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodeFolders\\C#\\PracticeDay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EADECCF-3C96-44A3-9F5D-EAB14DC7233F}|PracticeDay2\\PracticeDay2.csproj|c:\\codefolders\\c#\\practiceday2\\practiceday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EADECCF-3C96-44A3-9F5D-EAB14DC7233F}|PracticeDay2\\PracticeDay2.csproj|solutionrelative:practiceday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CodeFolders\\C#\\PracticeDay2\\PracticeDay2\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeDay2\\Program.cs",
+              "ToolTip": "C:\\CodeFolders\\C#\\PracticeDay2\\PracticeDay2\\Program.cs",
+              "RelativeToolTip": "PracticeDay2\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:54:50.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
