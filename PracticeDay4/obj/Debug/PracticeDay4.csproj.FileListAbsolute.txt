@@ -1,0 +1,7 @@
+C:\CodeFolders\C#\PracticeDay4\bin\Debug\PracticeDay4.exe.config
+C:\CodeFolders\C#\PracticeDay4\bin\Debug\PracticeDay4.exe
+C:\CodeFolders\C#\PracticeDay4\bin\Debug\PracticeDay4.pdb
+C:\CodeFolders\C#\PracticeDay4\obj\Debug\PracticeDay4.csproj.AssemblyReference.cache
+C:\CodeFolders\C#\PracticeDay4\obj\Debug\PracticeDay4.csproj.CoreCompileInputs.cache
+C:\CodeFolders\C#\PracticeDay4\obj\Debug\PracticeDay4.exe
+C:\CodeFolders\C#\PracticeDay4\obj\Debug\PracticeDay4.pdb
