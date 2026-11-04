@@ -25,6 +25,11 @@ namespace LabTaskSolve
             b3.SetAuthorName("J.R.R. Tolkien");
             b3.setPrice(450);
             b3.SetAvailableQuantity(5);
+            if(b3 is StoryBook)
+            {
+                StoryBook sb = (StoryBook)b3;
+                sb.SetCategory("Fantasy");
+            }// Here is checks whether the object is a StoryBook  (StoryBook)b3 performs the actual cast.
 
 
             StoryBook b4 = new StoryBook("978-1002","Sherlock Holmes","Arthur Conan Doyle",380,3,"Mystery");
@@ -47,6 +52,30 @@ namespace LabTaskSolve
 
             b1.setPrice(-100);
             b1.setPrice(700);
+
+            if (b3 is StoryBook)
+            {
+                StoryBook sb = (StoryBook)b3;
+                sb.SetCategory("Classic Fantasy");
+            }
+            double totalInventoryValue = 0;
+            foreach (var item in inventory)
+            {
+                totalInventoryValue += (item.GetAvailableQuantity() * item.GetPrice());
+
+            }
+
+            Console.WriteLine("Total Inventory Value : "+totalInventoryValue);
+
+            foreach(var item in inventory)
+            {
+                if(item is StoryBook)
+                {
+                    StoryBook sb = (StoryBook)item;
+                    Console.WriteLine("Book Title :  " + sb.GetBookTitle());
+                    Console.WriteLine("Book Category :  " + sb.GetCategory());
+                }
+            }
 
             foreach (var item in inventory)
             {
