@@ -1,7 +1,0 @@
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\bin\Debug\ShoerSetGet.exe.config
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\bin\Debug\ShoerSetGet.exe
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\bin\Debug\ShoerSetGet.pdb
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\obj\Debug\ShoerSetGet.csproj.AssemblyReference.cache
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\obj\Debug\ShoerSetGet.csproj.CoreCompileInputs.cache
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\obj\Debug\ShoerSetGet.exe
-C:\CodeFolders\C#\ShoerSetGet\ShoerSetGet\obj\Debug\ShoerSetGet.pdb

@@ -1,7 +1,0 @@
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\bin\Debug\BookLabTask.exe.config
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\bin\Debug\BookLabTask.exe
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\bin\Debug\BookLabTask.pdb
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\obj\Debug\BookLabTask.csproj.AssemblyReference.cache
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\obj\Debug\BookLabTask.csproj.CoreCompileInputs.cache
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\obj\Debug\BookLabTask.exe
-C:\Users\student\Desktop\Irfan\BookLabTask\BookLabTask\obj\Debug\BookLabTask.pdb

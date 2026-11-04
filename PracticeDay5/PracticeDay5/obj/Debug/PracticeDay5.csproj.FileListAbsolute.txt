@@ -1,7 +1,0 @@
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\bin\Debug\PracticeDay5.exe.config
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\bin\Debug\PracticeDay5.exe
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\bin\Debug\PracticeDay5.pdb
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\obj\Debug\PracticeDay5.csproj.AssemblyReference.cache
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\obj\Debug\PracticeDay5.csproj.CoreCompileInputs.cache
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\obj\Debug\PracticeDay5.exe
-C:\CodeFolders\C#\PracticeDay5\PracticeDay5\obj\Debug\PracticeDay5.pdb
